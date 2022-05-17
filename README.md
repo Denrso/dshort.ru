@@ -6,10 +6,10 @@
     <br>
 </p>
 
-Установка:
+Установка: <br>
 
-Создаем базу данных (host=localhost db=dshort user=root passwd={пустой})
-Скачиваем исходники с Github(ссылка на github);
-Устанавливаем пакеты composer install либо update
-Запускаем миграции php yii migrate (подтверждаем yes)
-Указываем веб серверу директорию /web в качестве корня
+Создаем базу данных (host=localhost db=dshort user=root passwd={пустой}) <br>
+Скачиваем исходники с Github(ссылка на github); <br>
+Устанавливаем пакеты composer install либо update <br>
+Запускаем миграции php yii migrate (подтверждаем yes) <br>
+Указываем веб серверу директорию /web в качестве корня <br>
