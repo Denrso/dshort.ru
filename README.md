@@ -13,3 +13,5 @@
 Устанавливаем пакеты composer install либо update <br>
 Запускаем миграции php yii migrate (подтверждаем yes) <br>
 Указываем веб серверу директорию /web в качестве корня <br>
+
+ <img src="https://raw.githubusercontent.com/Denrso/dshort.ru/master/web/screen.JPG" height="300px">
